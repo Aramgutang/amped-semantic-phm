@@ -1,0 +1,69 @@
+{ "contents": [
+	{
+		"name": "Australia",
+		"count": 200,
+		"children": [
+			{
+				"name": "New South Wales",
+				"count": 120,
+				"children": [
+					{
+						"name": "Sydney",
+						"count": 100,
+						"children": null
+					},
+					{
+						"name": "Newcastle",
+						"count": 20,
+						"children": null
+					}
+				]
+			},
+			{
+				"name": "Victoria",
+				"count": 50,
+				"children": null
+			},
+			{
+				"name": "Queensland",
+				"count": 20,
+				"children": null
+			},
+			{
+				"name": "South Australia",
+				"count": 5,
+				"children": null
+			},
+			{
+				"name": "Northern Territory",
+				"count": 3,
+				"children": null
+			},
+			{
+				"name": "Tasmania",
+				"count": 2,
+				"children": null
+			}
+		]
+	},
+	{
+		"name": "Armenia",
+		"count": 2,
+		"children": null
+	},
+	{
+		"name": "Russia",
+		"count": 50,
+		"children": null
+	},
+	{
+		"name": "United States",
+		"count": 30,
+		"children": null
+	},
+	{
+		"name": "New Zealand",
+		"count": 100,
+		"children": null
+	}
+]}
